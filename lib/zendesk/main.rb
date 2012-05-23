@@ -127,6 +127,5 @@ module Zendesk
     include Zendesk::Forum
     include Zendesk::Entry
     include Zendesk::Search
-    include Zendesk::Comment
   end
 end
